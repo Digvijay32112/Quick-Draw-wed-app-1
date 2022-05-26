@@ -1,0 +1,14 @@
+body{
+    background-color: greenyellow;
+    text-align: center;
+}
+#score{
+    font-size: 25px; 
+    margin-right: 450px;
+   
+}
+#timer{
+    font-size: 25px;
+    margin-left: 450px;
+}
+
